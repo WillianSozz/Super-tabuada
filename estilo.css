@@ -1,0 +1,76 @@
+body {
+    background: rgb(70, 70, 104);
+    font: normal 15pt Arial;
+    font-weight: bold;
+    
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+section {
+    background: rgb(165, 163, 173);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+#seltab {
+    width: 80pt;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    border-radius: 5pt;
+}
+
+#seltab2 {
+    width: 80pt;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    border-radius: 5pt;
+}
+
+#seltab3 {
+    width: 80pt;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    border-radius: 5pt;
+}
+
+#seltab4 {
+    width: 80pt;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    border-radius: 5pt;
+}
+
+#gtab {
+    font-weight: bold;
+    width: 150pt;
+    border-radius: 5pt;
+    color: rgb(255, 255, 255);
+    background-color: rgb(70, 70, 104);
+}
+
+#gtab:hover {
+    background-color: rgb(165, 163, 173);;
+}
+
+#txtn {
+    text-align: center;
+    border-radius: 5pt;
+    font-weight: bold;
+    text-align: center;
+}
